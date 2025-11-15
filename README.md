@@ -1,3 +1,8 @@
+Nombre: Jerix Geovanna Baez Niño
+Codigo: 192656
+
+
+
 # Analizador de Secuencias
 
 **Segundo Parcial — Programación I (Java)**  
